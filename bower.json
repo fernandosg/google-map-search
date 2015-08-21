@@ -1,0 +1,16 @@
+{
+  "name": "google-map-touch",
+  "version": "0.0.1",
+  "description": "A webcomponent like google-map but with a few event touch",
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "authors": [
+    "Fernando Segura"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  }
+}

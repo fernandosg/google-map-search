@@ -1,0 +1,109 @@
+<link rel="import"
+      href="bower_components/polymer/polymer.html">
+
+<dom-module id="google-map-touch">	
+  <template>
+    <div class="container-gmaptouch">
+    	<p>
+    		<input type="text" name="address-google-map-touch" id="address-google-map-touch"/>    		
+    		<span id="search-google-map-touch">Search</span>
+    		<input type="hidden" name="latitude-address-google-map-touch" id="latitude-address-google-map-touch"/>
+    		<input type="hidden" name="longitude-address-google-map-touch" id="longitude-address-google-map-touch"/>
+    	</p>
+	    <div id="{{ident}}">
+	    </div>
+	</div>
+  </template>
+
+  <script>
+  Polymer({
+    is: "google-map-touch",
+    ready: function() {
+    	var geo = new google.maps.Geocoder;
+    	var marker=new google.maps.Marker({});
+    	document.getElementById(this.ident).style.width=this.width;    	
+    	document.getElementById(this.ident).style.height=this.height;   
+    	var latlngmarker;
+    	latitude=parseFloat(this.latitude);
+    	longitude=parseFloat(this.longitude)
+    	var latLng={lat: latitude, lng: longitude};
+    	map = new google.maps.Map(document.getElementById(this.ident), {
+			center: latLng,
+			zoom: 8
+		});
+
+    	if(this.latitudemarker!="" && this.longitudemarker!=""){
+    		latlngmarker={lat:parseFloat(this.latitudemarker),lng:parseFloat(this.longitudemarker)};
+    		marker=new google.maps.Marker({position:latlngmarker});
+    		marker.setMap(map);
+			map.panTo(marker.getPosition());
+    	}
+
+    	document.getElementById("search-google-map-touch").addEventListener("click",function(){  
+		    geo.geocode({'address':document.getElementById("address-google-map-touch").value},function(results, status){
+		    	if (status == google.maps.GeocoderStatus.OK) {
+		        	document.getElementById("latitude-address-google-map-touch").value=results[0].geometry.location.G;
+		        	document.getElementById("longitude-address-google-map-touch").value=results[0].geometry.location.K;
+		        	marker.setMap(null);
+		        	marker=new google.maps.Marker({
+					    position: {lat:results[0].geometry.location.G,lng:results[0].geometry.location.K}
+					});
+					marker.setMap(map);
+					map.panTo(marker.getPosition());
+		        } else {
+		        	alert("Geocode was not successful for the following reason: " + status);
+		    	}
+
+			});		
+    	});
+
+    	if(this.tenabled=="true"){
+    		map.addListener("click",function(e){
+    			marker.setMap(null);
+    			marker=new google.maps.Marker({
+					position: {lat:e.latLng.lat(),lng:e.latLng.lng()}
+				});
+				marker.setMap(map);
+				map.panTo(marker.getPosition());
+    		})
+    	}
+    },
+    properties: {
+        // declare the owner property
+        tenabled: {
+          type: String,
+          value: "false"
+        },
+        ident:{
+          type:String,
+          value:"map"
+        },
+        class:{
+          type:String,
+          value:""
+        },
+        width:{
+        	type:String,
+        	value:"300"
+        },
+        height:{
+        	type:String,
+        	value:"300"
+        },
+        latitude:{
+        	type:String
+        },
+        longitude:{
+        	type:String
+        },
+        latitudemarker:{
+        	type:String,
+        	value:"-34.397"
+        },
+        longitudemarker:{
+        	type:String,
+        	value:"150.644"
+        }
+      }
+  });
+  </script>
