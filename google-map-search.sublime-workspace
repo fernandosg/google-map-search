@@ -1,0 +1,1084 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"map",
+				"map-google-map-touch"
+			],
+			[
+				"lat",
+				"latlngmarker"
+			],
+			[
+				"latl",
+				"latlngmarker"
+			],
+			[
+				"long",
+				"longitudemarker"
+			],
+			[
+				"latitude",
+				"latitudemarker"
+			],
+			[
+				"add",
+				"address-google-map-touch"
+			],
+			[
+				"addre",
+				"address_ob"
+			],
+			[
+				"post",
+				"postData"
+			],
+			[
+				"json",
+				"json_util"
+			],
+			[
+				"er",
+				"errores"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"asc",
+				"asociacion_id"
+			],
+			[
+				"asociac",
+				"asociacion_id"
+			],
+			[
+				"find_",
+				"find_or_create_by"
+			],
+			[
+				"asoci",
+				"asociacions_id"
+			],
+			[
+				"tags",
+				"tags_asociacion"
+			],
+			[
+				"asoc",
+				"asociacions"
+			],
+			[
+				"anuncios",
+				"anuncios_interes"
+			],
+			[
+				"Tags",
+				"TagsAsociacion"
+			],
+			[
+				"fi",
+				"find_or_create_by"
+			],
+			[
+				"asoic",
+				"asociacions_id"
+			],
+			[
+				"obtener",
+				"obtener_favoritos"
+			],
+			[
+				"asocia",
+				"asociacions"
+			],
+			[
+				"require",
+				"requireLogin"
+			],
+			[
+				"usuario",
+				"usuario_id"
+			],
+			[
+				"asociacions",
+				"asociacions_id"
+			],
+			[
+				"h",
+				"hjqp"
+			],
+			[
+				"asociacio",
+				"asociacion"
+			],
+			[
+				"mensa",
+				"mensajes_route"
+			],
+			[
+				"perfi",
+				"perfil_route"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"rep",
+				"respond_to"
+			],
+			[
+				"before",
+				"before_update"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"us",
+				"usuario_id"
+			],
+			[
+				"id",
+				"id_asociacion"
+			],
+			[
+				"nombre",
+				"nombre_objetivo"
+			],
+			[
+				"respons",
+				"response_messages"
+			],
+			[
+				"anuncio",
+				"anuncio_parent_id"
+			],
+			[
+				"anunc",
+				"anuncio_id"
+			],
+			[
+				"js",
+				"json"
+			],
+			[
+				"interes",
+				"interesados_en_asociacion"
+			],
+			[
+				"asociacion_",
+				"asociacion_parent_id"
+			],
+			[
+				"asociacion_p",
+				"asociacion_parent_id"
+			],
+			[
+				"asocici",
+				"asociacion_id"
+			],
+			[
+				"asocic",
+				"asociacions_url"
+			],
+			[
+				"aso",
+				"asociacions"
+			],
+			[
+				"usuarios",
+				"usuarios_apoyando"
+			],
+			[
+				"fsg",
+				"fsg_tmp"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"find",
+				"find_by_token"
+			],
+			[
+				"usua",
+				"usuario_id_objetivo"
+			],
+			[
+				"cookie",
+				"cookieParser"
+			],
+			[
+				"veri",
+				"verificar_propiedad"
+			],
+			[
+				"ciudad",
+				"ciudad_id"
+			],
+			[
+				"estad",
+				"estado_id"
+			],
+			[
+				"regi",
+				"registrar"
+			],
+			[
+				"asociacion",
+				"asociacion_id"
+			],
+			[
+				"apl",
+				"aplicacion"
+			],
+			[
+				"ap",
+				"aplicacion"
+			],
+			[
+				"app",
+				"application"
+			],
+			[
+				"Anun",
+				"AnunciosModel"
+			],
+			[
+				"div",
+				"divdestination"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"col",
+				"column-join"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"user",
+				"user_id_autor"
+			],
+			[
+				"confirm",
+				"confirm_client"
+			],
+			[
+				"cte",
+				"category_id"
+			],
+			[
+				"ci",
+				"city"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"state",
+				"state_id"
+			],
+			[
+				"cities",
+				"cities_list_id"
+			],
+			[
+				"stat",
+				"states_list_id"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"arra",
+				"array_cities"
+			],
+			[
+				"list",
+				"list_of_digits"
+			],
+			[
+				"strin",
+				"string_of_states"
+			],
+			[
+				"clos",
+				"close"
+			],
+			[
+				"write",
+				"write_states"
+			],
+			[
+				"str",
+				"string_of_states"
+			],
+			[
+				"writ",
+				"write_states"
+			],
+			[
+				"string",
+				"string_of_states"
+			],
+			[
+				"wri",
+				"write"
+			],
+			[
+				"index",
+				"index_digit"
+			],
+			[
+				"inde",
+				"index_digit"
+			],
+			[
+				"FIl",
+				"File	File.read(\"..\")"
+			],
+			[
+				"repl",
+				"replace_options"
+			],
+			[
+				"options",
+				"options_between"
+			],
+			[
+				"replace",
+				"replace_begin_select"
+			],
+			[
+				"end",
+				"end_select"
+			],
+			[
+				"begin",
+				"begin_select"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"bacgr",
+				"background"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"check",
+				"check_password_exist"
+			],
+			[
+				"change",
+				"change_avatar"
+			],
+			[
+				"pre",
+				"preview_avatar"
+			],
+			[
+				"avat",
+				"avatar_ob"
+			],
+			[
+				"av",
+				"avatar_ob"
+			],
+			[
+				"city",
+				"city_id"
+			],
+			[
+				"count",
+				"count_request"
+			],
+			[
+				"cit",
+				"city_id"
+			],
+			[
+				"opt",
+				"options_for_select"
+			],
+			[
+				"data",
+				"data_info"
+			],
+			[
+				"confir",
+				"confirm_client"
+			],
+			[
+				"messa",
+				"message"
+			],
+			[
+				"pe",
+				"petitionstate"
+			],
+			[
+				"worker",
+				"worker_id"
+			],
+			[
+				"job",
+				"jobs_workers"
+			],
+			[
+				"J",
+				"JobsWorker"
+			],
+			[
+				"service",
+				"service_id"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"serv",
+				"service_id"
+			],
+			[
+				"jos",
+				"jobs_workers"
+			],
+			[
+				"da",
+				"data-last-service"
+			],
+			[
+				"li",
+				"limit_search"
+			],
+			[
+				"limi",
+				"limit"
+			],
+			[
+				"limit",
+				"limit_search"
+			],
+			[
+				"user_",
+				"user_id_objetive"
+			],
+			[
+				"USER",
+				"user_id_autor"
+			],
+			[
+				"message",
+				"message_id"
+			],
+			[
+				"user_id",
+				"user_id_objetive"
+			],
+			[
+				"user_i",
+				"user_id_objetive"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "Voy a trabajar con webcomponents para crear un webcomponent touch",
+			"settings":
+			{
+				"buffer_size": 65,
+				"line_ending": "Unix",
+				"name": "Voy a trabajar con webcomponents para crear un web"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 531,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "google-map-touch.html",
+			"settings":
+			{
+				"buffer_size": 3716,
+				"line_ending": "Unix",
+				"name": "<link rel=\"import\""
+			}
+		},
+		{
+			"contents": "<link rel=\"import\"\n      href=\"bower_components/polymer/polymer.html\">\n\n<dom-module id=\"google-map-touch\">	\n  <template>\n    <div id=\"container-gmaptouch\">\n    	<p>\n    		<input type=\"text\" name=\"address-google-map-touch\" id=\"address-google-map-touch\"/>    		\n    		<span id=\"search-google-map-touch\">Search</span>\n    		<input type=\"hidden\" name=\"latitude-address-google-map-touch\" id=\"latitude-address-google-map-touch\"/>\n    		<input type=\"hidden\" name=\"longitude-address-google-map-touch\" id=\"longitude-address-google-map-touch\"/>\n    	</p>\n	    <div id=\"{{id}}\" class=\"{{class}}\">\n	    </div>\n	</div>\n  </template>\n\n  <script>\n  Polymer({\n    is: \"google-map-touch\",\n    ready: function() {\n    	var geo = new google.maps.Geocoder;\n    	var marker=new google.maps.Marker({});\n        var id=this.id;\n    	document.getElementById(this.id).style.width=this.width;    	\n    	document.getElementById(this.id).style.height=this.height;   \n    	var latlngmarker;\n    	latitude=parseFloat(this.latitude);\n    	longitude=parseFloat(this.longitude)\n    	var latLng={lat: latitude, lng: longitude};\n    	map = new google.maps.Map(document.getElementById(id), {\n			center: latLng,\n			zoom: 8\n		});\n\n    	if(this.latitudemarker!=\"\" && this.longitudemarker!=\"\"){\n    		latlngmarker={lat:parseFloat(this.latitudemarker),lng:parseFloat(this.longitudemarker)};\n    		marker=new google.maps.Marker({position:latlngmarker});\n    		marker.setMap(map);\n			map.panTo(marker.getPosition());\n    	}\n\n        console.log(document.getElementById(\"search-google-map-touch\"));\n    	document.getElementById(\"search-google-map-touch\").addEventListener(\"click\",function(){  \n		    geo.geocode({'address':document.getElementById(\"address-google-map-touch\").value},function(results, status){\n		    	if (status == google.maps.GeocoderStatus.OK) {\n		        	document.getElementById(\"latitude-address-google-map-touch\").value=results[0].geometry.location.G;\n		        	document.getElementById(\"longitude-address-google-map-touch\").value=results[0].geometry.location.K;\n		        	marker.setMap(null);\n		        	marker=new google.maps.Marker({\n					    position: {lat:results[0].geometry.location.G,lng:results[0].geometry.location.K}\n					});\n					marker.setMap(map);\n					map.panTo(marker.getPosition());\n		        } else {\n		        	alert(\"Geocode was not successful for the following reason: \" + status);\n		    	}\n\n			});		\n    	});\n\n    	if(this.tenabled==\"true\"){\n    		map.addListener(\"click\",function(e){\n    			marker.setMap(null);\n    			marker=new google.maps.Marker({\n					position: {lat:e.latLng.lat(),lng:e.latLng.lng()}\n				});\n				marker.setMap(map);\n				map.panTo(marker.getPosition());\n    		})\n    	}\n    },\n    properties: {\n        // declare the owner property\n        id:{\n            type:String,\n            value:\"map\"\n        },\n        class:{\n            type:String,\n            value:\"\"\n        },\n        tenabled: {\n          type: String,\n          value: \"false\"\n        },\n        width:{\n        	type:String,\n        	value:\"300\"\n        },\n        height:{\n        	type:String,\n        	value:\"300\"\n        },\n        latitude:{\n        	type:String\n        },\n        longitude:{\n        	type:String\n        },\n        latitudemarker:{\n        	type:String,\n        	value:\"-34.397\"\n        },\n        longitudemarker:{\n        	type:String,\n        	value:\"150.644\"\n        }\n      }\n  });\n  </script>",
+			"settings":
+			{
+				"buffer_size": 3416,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/fernando/proyectos/nodeapoya/views/header.jade",
+			"settings":
+			{
+				"buffer_size": 1144,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/fernando/Documentos/programacion/polymer/read.txt",
+		"/home/fernando/proyectos/nodeapoya/views/header.jade",
+		"/home/fernando/proyectos/nodeapoya/application/util/peticiones.js",
+		"/home/fernando/proyectos/nodeapoya/application/util/jsonparse.js",
+		"/home/fernando/proyectos/nodeapoya/application/controllers/anuncios.js",
+		"/home/fernando/proyectos/nodeapoya/routes/usuarios.js",
+		"/home/fernando/proyectos/nodeapoya/config.js",
+		"/home/fernando/proyectos/nodeapoya/index.js",
+		"/home/fernando/proyectos/nodeapoya/routes/anuncios.js",
+		"/home/fernando/proyectos/nodeapoya/views/errors/500.jade",
+		"/home/fernando/proyectos/nodeapoya/application/util/logs.js",
+		"/home/fernando/proyectos/nodeapoya/views/errors/404.jade",
+		"/home/fernando/proyectos/nodeapoya/views/index.jade",
+		"/home/fernando/proyectos/nodeapoya/routes/asociacion.js",
+		"/home/fernando/proyectos/nodeapoya/application/util/auth.js",
+		"/home/fernando/proyectos/nodeapoya/public/css/principal.css",
+		"/home/fernando/proyectos/nodeapoya/public/js/principal.js",
+		"/home/fernando/proyectos/nodeapoya/views/panel/edicion_perfil.jade",
+		"/home/fernando/proyectos/nodeapoya/application/util/errorhandler.js",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/inicio_controller.rb",
+		"/home/fernando/proyectos/nodeapoya/application/util/error.txt",
+		"/home/fernando/proyectos/nodeapoya/logs/error.txt",
+		"/home/fernando/proyectos/nodeapoya/routes/perfil.js",
+		"/home/fernando/proyectos/nodeapoya/routes/mensajes.js",
+		"/home/fernando/proyectos/nodeapoya/application/controllers/aplicacion.js",
+		"/home/fernando/proyectos/nodeapoya/application/controllers/asociaciones.js",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/models/reportes.rb",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/models/usuario.rb",
+		"/home/fernando/proyectos/nodeapoya/views/asociaciones/ver.jade",
+		"/home/fernando/proyectos/nodeapoya/views/layouts/layout_profile.jade",
+		"/home/fernando/proyectos/nodeapoya/views/layout.jade",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/asociacions_controller.rb",
+		"/home/fernando/proyectos/nodeapoya/views/login.jade",
+		"/home/fernando/Documentos/proyectos/apoyauna/config/routes.rb",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/models/anuncio.rb",
+		"/home/fernando/Documentos/proyectos/apoyauna/db/migrate/20150819192251_create_reportes.rb",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/models/asociacion.rb",
+		"/home/fernando/proyectos/nodeapoya/test/asociacion.js",
+		"/home/fernando/proyectos/nodeapoya/public/chat.js",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/favoritos.slim",
+		"/home/fernando/proyectos/nodeapoya/views/sidebar.jade",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/models/tags.rb",
+		"/home/fernando/proyectos/nodeapoya/views/busquedatags.jade",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/models/tags_asociacion.rb",
+		"/home/fernando/proyectos/nodeapoya/test/mensajes/mensajes.js",
+		"/home/fernando/proyectos/nodeapoya/views/asociaciones/favoritos.jade",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/anuncio.html.slim",
+		"/home/fernando/Documentos/proyectos/apoyauna/db/migrate/20150819052030_create_tags_asociacions.rb",
+		"/home/fernando/proyectos/nodeapoya/views/namespacetest.jade",
+		"/home/fernando/proyectos/nodeapoya/public/css/principal.stylus",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/anuncios_controller.rb",
+		"/home/fernando/proyectos/nodeapoya/test/anuncio.js",
+		"/home/fernando/proyectos/nodeapoya/test/mensajes.js",
+		"/home/fernando/proyectos/nodeapoya/views/panel/bandeja/envioexito.jade",
+		"/home/fernando/proyectos/nodeapoya/public/logueo2.js",
+		"/home/fernando/proyectos/nodeapoya/views/prueba.jade",
+		"/home/fernando/proyectos/nodeapoya/views/loginfin.jade",
+		"/home/fernando/proyectos/nodeapoya/public/logueo.js",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/mensajes_controller.rb",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/cuenta_controller.rb",
+		"/home/fernando/proyectos/nodeapoya/test/routes.js",
+		"/home/fernando/proyectos/nodeapoya/views/layouts/sidebar_perfil.jade",
+		"/home/fernando/hiram.txt",
+		"/home/fernando/proyectos/nodeapoya/views/panel/edicion_asociacion.jade",
+		"/home/fernando/proyectos/nodeapoya/views/panel/crear_asociacion.jade",
+		"/home/fernando/proyectos/nodeapoya/views/vistamensaje.jade",
+		"/home/fernando/proyectos/hxnmismos/config/routes.rb",
+		"/home/fernando/proyectos/nodeapoya/application/models/Anuncios.js",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/entrada.html.slim",
+		"/home/fernando/proyectos/nodeapoya/views/panel/login.jade",
+		"/home/fernando/proyectos/nodeapoya/views/panel/bandeja/lista_mensajes.jade",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/javascripts/principal.js",
+		"/home/fernando/proyectos/nodeapoya/application/models/Usuario.js",
+		"/home/fernando/proyectos/nodeapoya/application/models/Asociacion.js",
+		"/home/fernando/proyectos/nodeapoya/views/panel/bandeja/formulario_respuesta.jade",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/models/message.rb",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/models/response_message.rb",
+		"/home/fernando/proyectos/nodeapoya/views/panel/bandeja/respuestas_mensajes.jade",
+		"/home/fernando/proyectos/nodeapoya/views/panel/bandeja/ver.jade",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/bandeja_controller.rb",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/layouts/profile.slim",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/vermensaje.html.slim",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/messages/_respuestas_mensajes.html.slim",
+		"/home/fernando/proyectos/nodeapoya/views/panel/bandeja/index.jade",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/templates_list_message.html.slim",
+		"/home/fernando/proyectos/nodeapoya/views/busqueda.jade",
+		"/home/fernando/proyectos/nodeapoya/views/anuncios/ver.jade",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/usuarios_controller.rb",
+		"/home/fernando/Documentos/proyectos/apoyauna/db/migrate/20150808084025_add_asociacion_to_usuarios.rb",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/concerns/autentificacion.rb",
+		"/home/fernando/proyectos/nodeapoya/views/usuarios/ver.jade",
+		"/home/fernando/proyectos/nodeapoya/views/usuarios/partial/sidebar.jade",
+		"/home/fernando/proyectos/nodeapoya/views/asociaciones/partial/elemento.jade",
+		"/home/fernando/proyectos/nodeapoya/test/usuario.js",
+		"/home/fernando/proyectos/nodeapoya/views/asociaciones/index.jade",
+		"/home/fernando/proyectos/nodeapoya/views/asociaciones/partial/sidebar.jade",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/usuario.html.slim",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/models/favorito.rb",
+		"/home/fernando/proyectos/nodeapoya/application/config.js",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/profile.html.slim",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/_sidebar_profile.html.slim",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/asociacion.html.slim",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/_sidebar_asociacion.html.slim",
+		"/home/fernando/proyectos/nodeapoya/views/cliente.jade",
+		"/home/fernando/proyectos/hxnmismos/db/migrate/20150702041418_create_messages.rb",
+		"/home/fernando/proyectos/hxnmismos/app/controllers/messages_controller.rb",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/temas_controller.rb",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/apoyos_controller.rb",
+		"/home/fernando/proyectos/nodeapoya/application/libs/encodebase64.js",
+		"/home/fernando/proyectos/nodeapoya/package.json",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/models/concerns/Autentificacion.rb",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/layouts/layout.slim",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/index.html.slim",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/application_controller.rb",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/search.html.slim",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/asociaciones.html.slim",
+		"/home/fernando/proyectos/nodeapoya/views/asociaciones/partial/elementos.jade",
+		"/home/fernando/proyectos/nodeapoya/views/asociaciones.jade",
+		"/home/fernando/proyectos/realtimerails/Gemfile",
+		"/home/fernando/proyectos/nodeapoya/views/index.html",
+		"/home/fernando/proyectos/nodeapoya/views/page.jade",
+		"/home/fernando/Documentos/proyectos/apoyauna/app/controllers/favoritos_controller.rb",
+		"/home/fernando/Documentos/proyectos/apoyauna/Gemfile",
+		"/home/fernando/proyectos/hxnmismos/Gemfile",
+		"/home/fernando/proyectos/apoyaunacausa/projectoslim/source/_sidebar_usuario.html.slim",
+		"/home/fernando/proyectos/realtimerails/app/controllers/application_controller.rb",
+		"/home/fernando/proyectos/realtimerails/app/views/layouts/application.html.erb",
+		"/home/fernando/proyectos/realtimerails/config/initializers/redis.rb"
+	],
+	"find":
+	{
+		"height": 106.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'map'",
+			"\"map\"",
+			"\"map",
+			"container-gmaptouch",
+			"document.getelement",
+			"search-google-map-touch",
+			"/busqueda",
+			"conso",
+			"neta",
+			"io",
+			"router",
+			"controller.functions",
+			"controllers[\"",
+			"peticiones.",
+			"result",
+			"peticiones.",
+			"result",
+			"json.parse",
+			"JSON.",
+			"#login-form",
+			"ver",
+			"favoritos",
+			"asociacion_id",
+			"input#enviar",
+			"//window.onload = function() {\n \n    var messages = [];\n    var socket = io.connect(\"http://localhost:3700\");    \n    //var field = document.getElementById(\"field\");\n    //var sendButton = document.getElementById(\"send\");\n    //var content = document.getElementById(\"content\");\n \n /*\n    sendButton.onclick = function() {\n        var text = field.value;\n        socket.emit('send', { message: text });\n    };*/\n\n\n    socket.on(\"message\", function(data) {\n        //alert(data.msg);\n        $.ajax({\n            data:{hjyqx:\"1\"},\n            url:\"http://localhost:3700/notify\",\n            method:\"POST\"\n        }).done(function(msg){\n            $(\"#msg-option\").addClass(\"alert-option\");\n            console.log(msg);\n        })\n    });\n\n    socket.on(\"association_activity\", function(data) {\n        //alert(data.msg);\n        console.log(\"eiiii hay actividad chida :P\");\n        $.ajax({\n            data:{hjyqx:\"jxqw12\"},\n            url:\"http://localhost:3700/notify121SQW121\",\n            method:\"POST\"\n        }).done(function(msg){\n            $(\"#favorites-option\").addClass(\"alert-option\")\n            console.log(msg);\n        })\n    });\n   \n\n\n    $(\"input#enviar\").click(function(){\n        console.log(\"probando \"+$(\"p#informacion\").html());\n        $.ajax({\n            data:{identificador:$(\"p#informacion\").html(),mensaje:$(\"input#mensaje\").val()},\n            url:\"http://localhost:3700/fin\",\n            method:\"POST\"\n        }).done(function(msg){\n            console.log(msg);\n        })\n    });\n    var init=function(id){\n        socket.emit('join',{id:id}); \n    }\n//}",
+			"busc",
+			"Asociacions",
+			"TagsAsociacion",
+			"eyJ0eXAiOiAiSldUIiwgImFsZyI6ICJIUzI1NiJ9.eydpc3MnOiAnYXBveWF1bmFjYXVzYS5jb20vYXBpJywnZXhwJzogMjU3NTk4ODYxMzE5NDc1MTY4OTg5NTQyNDcyMTUwMjkyOTU5NDEwLCduYW1lJzogJ2ZzZzJfdG1wQGhvdG1haWwuY29tJ30=.35f862873f91fc2a86228d7aaa11d69da91d6926d710a9a73bc2c430bfaad483",
+			"buscar_",
+			"eyJ0eXAiOiAiSldUIiwgImFsZyI6ICJIUzI1NiJ9.eydpc3MnOiAnYXBveWF1bmFjYXVzYS5jb20vYXBpJywnZXhwJzogMjU3NTk4ODYxMzE5NDc1MTY4OTg5NTQyNDcyMTUwMjkyOTU5NDEwLCduYW1lJzogJ2ZzZzJfdG1wQGhvdG1haWwuY29tJ30=.35f862873f91fc2a86228d7aaa11d69da91d6926d710a9a73bc2c430bfaad483",
+			"buscarpor",
+			"tags",
+			"favoritos",
+			"hjyqx",
+			"url",
+			"io.",
+			"token:token",
+			":token",
+			"actualizar_token",
+			"token",
+			"new_msg",
+			"console.log",
+			"io=",
+			"req,utils",
+			"/perfil/asociacion/actualizarimagen ",
+			"edicion_asociacion",
+			"controller.",
+			"functions",
+			"controller.",
+			"controller.anuncios",
+			"controller.asociaciones",
+			"parent.token",
+			"this.controllers['asociaciones']",
+			"this.controllers[\"anuncios\"]",
+			"parent.token",
+			"this.app",
+			"parent.token",
+			"this.app",
+			"parent.token",
+			"this.app",
+			"parent.token",
+			"this.app",
+			"actualizaravatar",
+			"update_avatar",
+			"(req.body",
+			"body",
+			"req",
+			"usuario",
+			"comprobar_propiedad",
+			"update",
+			"/asociacions",
+			"body",
+			"/anuncio",
+			"asociacions",
+			"buscar",
+			"post \"asociacions",
+			"buscar",
+			"/ver",
+			"req.body",
+			"/img/",
+			"icons/",
+			"/ver",
+			"this",
+			"data",
+			"=",
+			"\"/perfil",
+			".post",
+			"peticiones.ac",
+			"/perfil",
+			"perfil",
+			":",
+			"::",
+			"checar_correo",
+			"guardar",
+			"perfil",
+			"cuenta/",
+			"req.body",
+			"/ver",
+			"asociacions/",
+			"enviar",
+			"init",
+			"asociaciones",
+			"req.",
+			"or ",
+			"or",
+			"bandeja",
+			"session[:id",
+			"usuario_id_objetivo",
+			"messages",
+			"token",
+			"comprobar_cuenta",
+			"before_filter",
+			"anuncios",
+			"anuncios/",
+			"anuncios",
+			"\"cuenta\"",
+			"comprobar_ingreso",
+			"cuenta",
+			"anuncios",
+			"ajax",
+			"like",
+			"true",
+			"checar_nombre",
+			"comprobar_propiedad",
+			"_update",
+			"verificar_existencia",
+			"@mensaje"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 65,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								65,
+								65
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Voy a trabajar con webcomponents para crear un web",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 531,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								321,
+								321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "google-map-touch.html",
+					"settings":
+					{
+						"buffer_size": 3716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								560,
+								560
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<link rel=\"import\"",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"settings":
+					{
+						"buffer_size": 3416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2297,
+								2297
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/home/fernando/Documentos/programacion/polymer",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 714.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/fernando/proyectos/nodeapoya/views/header.jade",
+					"settings":
+					{
+						"buffer_size": 1144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 216.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 371.0,
+	"status_bar_visible": true
+}

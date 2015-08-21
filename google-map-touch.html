@@ -6,9 +6,9 @@
     <div class="container-gmaptouch">
     	<p>
     		<input type="text" name="address-google-map-touch" id="address-google-map-touch"/>    		
-    		<span id="search-google-map-touch">Search</span>
-    		<input type="hidden" name="latitude-address-google-map-touch" id="latitude-address-google-map-touch"/>
-    		<input type="hidden" name="longitude-address-google-map-touch" id="longitude-address-google-map-touch"/>
+    		<span id="search-google-map-touch"></span>
+    		<input type="hidden" name="latitude-address-google-map-touch" id="latitude-address-google-map-touch" value="{{latitude}}"/>
+    		<input type="hidden" name="longitude-address-google-map-touch" id="longitude-address-google-map-touch" value="{{longitude}}"/>
     	</p>
 	    <div id="{{ident}}">
 	    </div>
@@ -22,7 +22,9 @@
     	var geo = new google.maps.Geocoder;
     	var marker=new google.maps.Marker({});
     	document.getElementById(this.ident).style.width=this.width;    	
-    	document.getElementById(this.ident).style.height=this.height;   
+    	document.getElementById(this.ident).style.height=this.height;  
+        language_strings={"es":{search:"Buscar",error:"La peticion Geocode no fue realizada con exito por estas razones"},"en":{search:"Search",error:"Geocode was not successful for the following reason: "}}
+        document.getElementById("search-google-map-touch").innerHTML=language_strings[this.lang].search;
     	var latlngmarker;
     	latitude=parseFloat(this.latitude);
     	longitude=parseFloat(this.longitude)
@@ -51,7 +53,7 @@
 					marker.setMap(map);
 					map.panTo(marker.getPosition());
 		        } else {
-		        	alert("Geocode was not successful for the following reason: " + status);
+		        	alert(language_strings[this.lang].error+ status);
 		    	}
 
 			});		
@@ -89,6 +91,10 @@
         height:{
         	type:String,
         	value:"300"
+        },
+        lang:{
+            type:String,
+            value:"es"
         },
         latitude:{
         	type:String
